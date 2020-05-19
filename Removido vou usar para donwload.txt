@@ -1,2 +1,0 @@
-Projeto de redes removido, o prazo para a entrega já passou do limite,
-armazenamento usado apenas para git.
